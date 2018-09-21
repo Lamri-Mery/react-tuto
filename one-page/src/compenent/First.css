@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+}
+.Half {
+  width: 50%;
+}
+img{
+	height: auto;
+}
